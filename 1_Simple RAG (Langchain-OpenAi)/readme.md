@@ -23,4 +23,5 @@ Implement RAG Class:
 Combine the retriever and a language model (LLM) to generate context-aware responses.
 Example Usage:
 
+
 Demonstrate the functionality by querying the system and printing the response.
