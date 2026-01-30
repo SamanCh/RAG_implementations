@@ -1,3 +1,5 @@
+#tst_rag
+
 import os
 import numpy as np
 from typing import List, Dict, Any, Tuple
@@ -230,4 +232,5 @@ if __name__ == "__main__":
     response = rag.query(query)
     
     print(f"Query: {query}\n")
+
     print(f"Response:\n{response}")
