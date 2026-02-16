@@ -1,4 +1,4 @@
- 🧠 Retrieval-Augmented Generation (RAG) – From Basics to Advanced
+# 🧠 Retrieval-Augmented Generation (RAG) – From Basics to Advanced
 
 Welcome to the **RAG Teaching Repository**!
 This project walks you through the implementation of Retrieval-Augmented Generation (RAG) from scratch, starting with simple concepts and building toward a full-fledged, production-ready RAG pipeline. It's designed specifically for **educational purposes** — ideal for learners, researchers, and practitioners who want to understand RAG thoroughly.
