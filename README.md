@@ -1,3 +1,4 @@
+
 # 🧠 Retrieval-Augmented Generation (RAG) – From Basics to Advanced
 
 Welcome to the **RAG Teaching Repository**!
