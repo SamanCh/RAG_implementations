@@ -5,7 +5,7 @@ This project walks you through the implementation of Retrieval-Augmented Generat
 
 ---
 
-## 📚 What is RAG?
+## 📚 What is RAG? 
 
 **Retrieval-Augmented Generation (RAG)** is a hybrid approach that combines:
 
